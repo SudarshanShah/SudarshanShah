@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SudarshanShah
 - 👀 I’m interested in Java and Java based backend technologies like Spring Boot, Hibernate.
-- 🌱 I’m currently learning Javascript, and recently have learned ReactJS and ExpressJS.
+- 🌱 I’m currently working on personal project on Spring Boot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
