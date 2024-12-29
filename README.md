@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SudarshanShah
-- 👀 I’m interested in Java and Java based backend technologies like Spring Boot, Hibernate.
-- 🌱 I’m currently working as a Software Engineer in Java & Spring Boot tech stack.
--  Also, I am currently learning Kotlin and Rust, for exploration and FUN!!!!
+- 👀 I’m Full-Stack Java Developer.
+- 🌱 I’m currently working as a Software Engineer in tech stack, Java, Spring Boot, Angular, PostgreSQL.
+-  Also, I am currently learning React, Typescript and Rust, for exploration and FUN!!!!
